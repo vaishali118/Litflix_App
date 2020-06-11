@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Litflix</string>
+    <string name="most_popular_movies">Most Popular Movies</string>
+    <string name="trending_now">Trending Now</string>
+    <string name="top_rated_movies">Top Rated Movies</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="litflix">Litflix</string>
+    <string name="playing_your_audio">Playing Audio</string>
+</resources>
